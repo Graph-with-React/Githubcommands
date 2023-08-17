@@ -6,13 +6,12 @@ git status
 git  branch -M main
 git clone 
 git log
-ls - a
-cd sk(folder)
+ls - a  (Than  coppy folder link  like  ./ ../....... .git/ coppy this link only/)
+cd  (paste this link  ./ ../.git/ xxxx/ enter)
 git add .
 git status 
-git commit  -m "hi"
-git log (show commit history)
+git commit  -m "hi" 
 git remote -v
-git push -u origin main
+git push -u origin main 
 .....
 okay
