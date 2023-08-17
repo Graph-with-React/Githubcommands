@@ -1,5 +1,5 @@
 # Githubcommands
-# How to update and upload new code form Github to showing commands below.........................................................................................
+# How to update and upload new code from GitHub to show commands below.........................................................................................
 git init
 git clone (copy GitHub repository code link like https://github.com/Graph-with-React/xx.git )
 git status
