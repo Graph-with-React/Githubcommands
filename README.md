@@ -1,4 +1,5 @@
 # Githubcommands
+# How to update and upload GithubCommands to showing code below..... 
 git init
 git clone (copy GitHub repository code link like https://github.com/Graph-with-React/xx.git )
 git status
