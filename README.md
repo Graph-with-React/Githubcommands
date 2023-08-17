@@ -1,6 +1,6 @@
 # Githubcommands
 git init
-git clone https://github.com/Graph-with-React/Githubcommands.git 
+git clone (copy GitHub repository code link like https://github.com/Graph-with-React/Githubcommands.git )
 git status
 git  branch -M main
 git log (to exit ctrl + c pas enter)
